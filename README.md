@@ -1,3 +1,3 @@
 # alex-kampa.github.com
 
-Hello, world!
+Hello, world! This is $a^b$.
